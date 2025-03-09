@@ -1,20 +1,6 @@
 ## Hello there 👋
 
 
-### Стек
-
-<div align="center">
-  
-<img src="https://cdn.simpleicons.org/python" height="40"/>
-<img src="https://cdn.simpleicons.org/pandas" height="40"/>
-<img src="https://cdn.simpleicons.org/numpy" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
-<img src="https://cdn.simpleicons.org/scipy" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
-<img src="https://cdn.simpleicons.org/redash" height="40"/>
-
-
-</div>
 
 ### Проекты
 
