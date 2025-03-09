@@ -11,5 +11,5 @@
 | [Когортный анализ retention](https://github.com/AOKonovalov/cohort_analysis/tree/main)| Расчет месячного коэффициента удержания по сформированным когортам, визуализация , оценка влияния внедрения фичи| Python (pandas, seaborn, matplotlib)|
 | [BI-отчет по вакансиям на hh.ru](https://github.com/AOKonovalov/BI--hh.ru)| Создание дашборда для аналитики динамики вакансий, уровня з/п, динамики вакансий| Power BI, Power Query, DAX|
 | [BI-отчет по продажам FMCG-компании](https://github.com/AOKonovalov/BI-FMCGco) | Создание модели данных на основе 10+ таблиц, создание дашборда для анализа выручки в разрезе периодов, категории продуктов и географии. | Power BI, Power Query, DAX |
-
+| [Автоматизация отчета](https://github.com/AOKonovalov/Insider_trading_activity/tree/main)| Создание максимально автоматизированного отчета об инсайдерсой торговле c выводом в формате поста `.md`| Python (pandas, numpy, datetime)|
 
